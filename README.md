@@ -1,4 +1,4 @@
-Sindhuja Arnepalli
+"Sindhuja Arnepalli"
 
 I'm a Computer Science student specializing in AI/ML with a passion for transforming data into meaningful insights. My experience spans developing predictive models, building intelligent applications, and deploying real-world solutions.
 
